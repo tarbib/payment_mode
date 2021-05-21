@@ -2,3 +2,8 @@
 	path = OCA/bank-payment
 	url = git@github.com:OCA/bank-payment.git
 	branch = 14.0
+
+[submodule "OCA/sale-workflow"]
+	path = OCA/sale-workflow
+	url = git@github.com:OCA/sale-workflow.git
+	branch = 14.0
